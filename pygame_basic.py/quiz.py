@@ -95,3 +95,5 @@ while running:
     pygame.display.update() #게임화면을 다시 그리기
 
 pygame.quit()
+
+## 이부분 추가했음
